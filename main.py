@@ -1,8 +1,6 @@
-import argparse
 
 import psycopg2
 from src.postgres_config import PostgresConfig
-from src.calculator import add_numbers
 
 if __name__ == '__main__':
 
