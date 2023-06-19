@@ -19,5 +19,5 @@ python -m unittest discover tests
 
 - psql 
 ```sh
-PGPASSWORD=password psql --host postgres --username admin --dbname db
+PGPASSWORD=postgres psql --host postgres --username postgres --dbname postgres
 ```
